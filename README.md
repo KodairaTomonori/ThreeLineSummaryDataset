@@ -1,7 +1,7 @@
 # 3行要約データセット
 WebDB Forum 2017 の「TL;DR 3行要約に着目したニューラル文書要約」という発表論文内で構築されたデータセットです．
-論文の内容に関しては，こちらの動画[3行要約に着目したニューラル文書要約](https://youtu.be/cEDj0WgkTbM)@youtube参照．
-
+論文の内容に関しては，学位論文「[文書構造に着目したニューラル文書要約](http://cl.sd.tmu.ac.jp/~komachi/thesis/2017-mthesis-kodaira.pdf)」を参照してください．  
+または，こちらの動画[3行要約に着目したニューラル文書要約](https://youtu.be/cEDj0WgkTbM)@youtube参照．    
 
 ## 概要
 LivedoorNews(http://news.livedoor.com/)からクロールしてデータセットの構築を行います．
